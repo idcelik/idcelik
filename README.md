@@ -14,8 +14,7 @@
 - 📫 How to reach me **ibrahimdenizcelik@gmail.com**
 
 - 📄 Know about my experiences 
-[https://ibrahimdenizcelik.com.tr/](https://ibrahimdenizcelik.com.tr/)
-[https://dens.com.tr/](https://dens.com.tr/)
+-> [www.ibrahimdenizcelik.com.tr](https://ibrahimdenizcelik.com.tr/)  &  [www.dens.com.tr](https://dens.com.tr/)
 
 
 ### Blogs posts
