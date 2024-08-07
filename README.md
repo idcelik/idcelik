@@ -9,11 +9,14 @@
 
 - 🌱 I’m currently learning **React.js,Java Spring Boot**
 
-- 📝 I regularly write articles on [https://ibrahimdenizcelik.com/](https://ibrahimdenizcelik.com/)
+- 📝 I regularly write articles on [https://ibrahimdenizcelik.com.tr/](https://ibrahimdenizcelik.com.tr/)
 
 - 📫 How to reach me **ibrahimdenizcelik@gmail.com**
 
-- 📄 Know about my experiences [https://ibrahimdenizcelik.com/](https://ibrahimdenizcelik.com/)
+- 📄 Know about my experiences 
+[https://ibrahimdenizcelik.com.tr/](https://ibrahimdenizcelik.com.tr/)
+[https://dens.com.tr/](https://dens.com.tr/)
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
