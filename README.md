@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/idcelik" target="blank"><img src="https://img.shields.io/twitter/follow/idcelik?logo=twitter&style=for-the-badge" alt="idcelik" /></a> </p>
 
-- 🌱 I’m currently learning **React.js,Java Spring Boot**
+- 🌱 I’m currently learning **.NET Core, ASP .NET, Web Tools, Angular and Jquery**
 
 - 📝 I regularly write articles on [https://ibrahimdenizcelik.com.tr/](https://ibrahimdenizcelik.com.tr/)
 
